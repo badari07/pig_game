@@ -1,0 +1,16 @@
+{
+  "name": "pig_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://badari07.github.io/pig_game",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
